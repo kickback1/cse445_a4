@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://kickback1.github.io/cse445_a4/NationalParks.xsd">
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Name>Grand Canyon South</Name>
@@ -77,6 +78,7 @@
       <City>Moab</City>
       <State>UT</State>
       <Zip>84532</Zip>
+    </Address>
   </NationalPark>
   <NationalPark Rating="4.6">
     <Name>Great Smoky Mountains</Name>
@@ -122,4 +124,4 @@
       <Zip>84764</Zip>
     </Address>
   </NationalPark>
-</NationalPark>
+</NationalParks>
